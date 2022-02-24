@@ -1,4 +1,22 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tech-blog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyramirezgd/tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyramirezgd/tech-blog/issues"
+  },
+  "homepage": "https://github.com/dannyramirezgd/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
