@@ -130,7 +130,6 @@
   .post:nth-child(odd) {
     background-color: #fcde67;
     padding: 10px;
-    border-radius: 10%;
   }
   .post .title span {
     font-style: italic;
@@ -140,7 +139,6 @@
   
   .post-list {
     background-color: #030e12;
-    border-radius: 10%;
   }
   .edit-link {
     display: block;
@@ -166,7 +164,13 @@
     margin-bottom: .5%;
     opacity: .6;
   }
-  
+
+  .post-content {
+    padding: 1%;
+    margin: 3%;
+    background-color: #fcde67;
+  }
+   
   .new-post-form input {
     width: 300px;
   }
