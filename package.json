@@ -3,7 +3,7 @@
     "start": "node server.js"
   },
   "name": "tech-blog",
-  "description": "",
+  "description": "a tech blog app",
   "version": "1.0.0",
   "main": "server.js",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dannyramirezgd/tech-blog.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "dannyramirezgd",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dannyramirezgd/tech-blog/issues"
